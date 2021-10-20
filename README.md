@@ -1,2 +1,2 @@
 # hello-world
-hello world program
+hello world program (sample program)
